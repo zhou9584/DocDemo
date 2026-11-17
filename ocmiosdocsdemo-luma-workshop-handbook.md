@@ -1,69 +1,57 @@
-# Luma 实验室公开课活动手册
+# Luma Lab Workshop Handbook
 
-- 版本：2.0
-- 状态：Demo 虚构资料；活动、联系方式和安排均为演示用途
-- 版本关系：替代 1.0；尚未发布的活动材料应使用本版本的安排
-- 适用范围：Luma 实验室公开课的邀请邮件、报名页面及活动提醒
+- Version: 1.0
+- Status: Fictional demo material. The event, contact details, and arrangements are for demonstration purposes only.
+- Scope: Invitation emails, registration pages, and event reminders for the Luma Lab Workshop series.
 
-## 1. 手册用途
+## 1. Purpose
 
-本手册提供 Luma 实验室公开课的活动背景、安排和参与信息，供撰写不同形式的活动材料时参考。它不是公司级沟通政策，不替代适用的公司要求。
+This handbook provides event background, logistics, and participation information for the Luma Lab Workshop series. Use it as a reference when preparing different types of event materials. It is not a company-wide communications policy and does not replace applicable company requirements.
 
-## 2. 活动介绍
+## 2. Event Overview
 
-Luma 实验室公开课是一个面向业务团队的线上实践活动系列。本期主题为“把重复工作整理成可复用的方法”。
+Luma Lab Workshop is an online, hands-on learning series for business teams. The theme of this session is “Turning Repetitive Work into Reusable Methods.”
 
-适合参加的人群：
-- 经常整理周报、会议纪要或业务材料的同事。
-- 希望减少重复准备工作的项目负责人。
-- 对工作方法改进感兴趣的初学者，无需编程基础。
+Who should attend:
+- People who regularly prepare weekly reports, meeting notes, or business materials.
+- Project leads who want to reduce repetitive preparation work.
+- Beginners interested in improving their work practices. No programming experience is required.
 
-本期内容：
-1. 识别日常工作中的重复步骤。
-2. 用一个周报示例演示如何整理可复用的方法。
-3. 使用自己准备的工作场景完成简短练习，并讨论如何检查结果及持续改进。
+Topics covered:
+1. Identifying repetitive steps in everyday work.
+2. Using a weekly report example to demonstrate how to develop a reusable method.
+3. Discussing how to check results and improve over time.
 
-## 3. 活动安排
+## 3. Event Logistics
 
-| 项目 | 当前安排 |
+| Item | Current arrangement |
 |---|---|
-| 活动形式 | 线上公开课，含现场练习 |
-| 活动平台 | Microsoft Teams Webinar |
-| 活动时长 | 60 分钟 |
-| 时间分配 | 主题介绍 10 分钟、示例演示 20 分钟、现场练习 20 分钟、问答 10 分钟 |
-| 活动日期与开始时间 | 待确认，发布材料中应保留占位符并注明时区待确认 |
-| 报名入口 | 待确认，使用“[报名链接待补充]”占位 |
-| 加入方式 | 报名成功后，通过确认邮件获取 Webinar 加入链接 |
+| Format | Online workshop |
+| Platform | Standard Microsoft Teams meeting |
+| Duration | 45 minutes |
+| Agenda | Introduction: 10 minutes; demonstration: 25 minutes; Q&A: 10 minutes |
+| Date and start time | To be confirmed. Keep placeholders in event materials and mark the time zone as to be confirmed. |
+| Registration | To be confirmed. Use the placeholder “[Registration link to be added]”. |
+| Joining instructions | Registered attendees receive the meeting link in their confirmation email. |
 
-## 4. 参加前准备
+## 4. Preparation
 
-请提前准备一个希望优化的重复工作场景，例如整理周报、准备会议纪要或汇总业务材料。
+No advance preparation is required. Attendees can follow the demonstration and ask questions during the Q&A.
 
-建议用两三句话描述：
-- 这项工作希望得到什么结果。
-- 当前通常有哪些步骤。
-- 哪个环节最费时或容易遗漏。
+## 5. Follow-up Materials
 
-现场练习将围绕这个场景进行。不需要上传真实业务文件，不应在练习材料中包含客户信息、个人信息或内部敏感内容；可以使用虚构或脱敏示例。
+Registered attendees will receive the presentation slides after the workshop, sent to the email address used for registration.
 
-## 5. 会后资料
+Recording and replay availability have not been confirmed. Do not promise either in event materials.
 
-会后向报名者提供：
-- 演示幻灯片。
-- 配套练习手册，包含场景描述表、步骤梳理表和结果检查表。
+## 6. Event Inquiries
 
-上述资料通过报名时使用的邮箱发送。
+Contact email: **events@example.com**
 
-尚未确认是否提供录制或回放，不应在活动材料中承诺。
+Use this address for questions about event logistics, registration, and participation. This is an example address and is not intended for actual contact.
 
-## 6. 活动咨询
+## 7. Usage Notes
 
-咨询邮箱：**support@example.com**
-
-可通过该邮箱咨询活动安排、报名、参与方式及练习准备。该地址为示例地址，不用于真实联系。
-
-## 7. 信息使用说明
-
-- 本手册仅适用于 Luma 实验室公开课，不应推广为其他活动的默认安排。
-- 活动日期、开始时间、时区及报名链接未确认时，不自行编造。
-- 撰写邀请邮件、报名页面或活动提醒时，应查询手册的当前适用版本，不直接沿用旧文案中的活动信息。
+- This handbook applies only to the Luma Lab Workshop series. Do not treat its arrangements as defaults for other events.
+- Do not invent an event date, start time, time zone, or registration link when these details have not been confirmed.
+- When writing invitation emails, registration pages, or reminders, consult the current applicable version of this handbook rather than carrying over event details from older copy without checking.
